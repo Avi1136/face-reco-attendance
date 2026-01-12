@@ -1,0 +1,5 @@
+dataset/
+encodings.pickle
+__pycache__/
+*.csv
+.env
